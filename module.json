@@ -1,8 +1,8 @@
 {
   "id": "complete-guide-compendium",
-  "title": "Complete Guide Compendium",
+  "title": "Complete Guide Compendium 5.0",
   "description": "Sharing 5e data between worlds",
-  "version": "1.8.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10.291"
